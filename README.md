@@ -1,5 +1,5 @@
 # 👋 Hi, I’m kire
-- 🌱 I’m a web dev student at Full Sail University
+- 🌱 I’m a student at Full Sail University
 - 🔭 Stargazing makes me happy
 - ✨ I'm always learning
 
