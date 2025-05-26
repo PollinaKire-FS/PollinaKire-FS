@@ -1,5 +1,3 @@
-- 💫 millennial coder, she/her, usa
-- 📚 born in cuba, raised on stories & starlight
+- 🌺 millennial dev
 - 🪐 big fan of cosmic catastrophes
-- 🧡 finishing my web dev degree at full sail
-- 🔮 currently teaching my best friend to code
+- 🌿 currently teaching my best friend to code
