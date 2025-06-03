@@ -1,4 +1,3 @@
-- 🌺 millennial dev  
-- 🪐 big fan of cosmic catastrophes  
-- 🌿 currently teaching my best friend to code  
-- 🧡 keeping the old web alive @ [neocities](https://kire.neocities.org/)
+- 🌿 millennial dev  
+- ✨ big fan of cosmic catastrophes  
+- 👾 keeping the old web alive @ [neocities](https://kire.neocities.org/)
