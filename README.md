@@ -2,7 +2,7 @@
 
 I’m Kire (kee-day), a developer with a heart for people and problem-solving.
 
-⚡ Currently at Idaho National Laboratory (INL) building secure, accessible sites and automations
+⚡ Currently contracted at Idaho National Laboratory (INL) building secure, accessible sites + automations
 
 🌿 Past: military aviation, freelance development, healthcare administration
 
